@@ -1,0 +1,25 @@
+codigo,indicador,tema,unidad,definicion
+POB,Población total,Población,personas,Población residente estimada o proyectada al 30 de junio de cada año.
+TBN,Tasa bruta de natalidad,Crecimiento,por mil habitantes,Nacimientos del año por cada mil habitantes.
+TBM,Tasa bruta de mortalidad,Crecimiento,por mil habitantes,Defunciones del año por cada mil habitantes.
+TCN,Tasa de crecimiento natural,Crecimiento,por mil habitantes,Diferencia entre nacimientos y defunciones por cada mil habitantes (TBN − TBM).
+TNM,Tasa neta de migración,Crecimiento,por mil habitantes,Saldo entre inmigrantes y emigrantes por cada mil habitantes.
+TCT,Tasa de crecimiento total,Crecimiento,por mil habitantes,Variación anual de la población por cada mil habitantes (crecimiento natural + migración neta).
+MASC,Relación de masculinidad,Estructura,hombres por cada 100 mujeres,Cantidad de hombres por cada 100 mujeres.
+MASC65,Relación de masculinidad 65 y más,Estructura,hombres por cada 100 mujeres (65+),Cantidad de hombres de 65 años y más por cada 100 mujeres de esas edades.
+P014,Población de 0 a 14 años,Estructura,% de la población,Porcentaje de la población que tiene entre 0 y 14 años.
+P1564,Población de 15 a 64 años,Estructura,% de la población,Porcentaje de la población que tiene entre 15 y 64 años.
+P65,Población de 65 años y más,Estructura,% de la población,Porcentaje de la población que tiene 65 años y más.
+IE,Índice de envejecimiento,Estructura,personas 65+ por cada 100 de 0-14,Personas de 65 años y más por cada 100 personas de 0 a 14 años.
+ISE,Índice de sobreenvejecimiento,Estructura,personas 85+ por cada 100 de 65+,Personas de 85 años y más por cada 100 personas de 65 años y más.
+RDT,Relación de dependencia total,Estructura,por cada 100 personas de 15-64,Personas de 0-14 y de 65+ años por cada 100 personas de 15 a 64 años.
+RDI,Relación de dependencia de la infancia,Estructura,por cada 100 personas de 15-64,Personas de 0 a 14 años por cada 100 personas de 15 a 64 años.
+RDV,Relación de dependencia de la vejez,Estructura,por cada 100 personas de 15-64,Personas de 65 años y más por cada 100 personas de 15 a 64 años.
+IRPEA,Índice de reemplazo de la población en edad activa,Estructura,personas 60-64 por cada 100 de 15-19,Personas de 60 a 64 años por cada 100 personas de 15 a 19 años (los que se retiran de la edad activa frente a los que ingresan).
+EMED,Edad mediana de la población,Estructura,años,"Edad que divide a la población en dos mitades: la mitad de las personas tiene menos de esa edad y la otra mitad, más."
+TFG,Tasa de fecundidad general,Fecundidad,nacimientos por mil mujeres de 15-49,Nacimientos por cada mil mujeres de 15 a 49 años.
+TGF,Tasa global de fecundidad,Fecundidad,hijos por mujer,Número medio de hijos que tendría una mujer al final de su vida fértil según las tasas de fecundidad por edad del año.
+EMM,Edad media a la maternidad,Fecundidad,años,"Edad media de las madres al tener a sus hijos, ponderada por las tasas de fecundidad por edad."
+TEM,Tasa estandarizada de mortalidad,Mortalidad,por mil habitantes,Tasa de mortalidad que se observaría con una estructura por edad estándar; permite comparar departamentos y años sin el efecto de la estructura por edad.
+E0,Esperanza de vida al nacer,Mortalidad,años,Años que en promedio viviría un recién nacido si se mantuvieran las tasas de mortalidad por edad del año. Desde 2024 surge de las tablas de mortalidad proyectadas.
+E65,Esperanza de vida a los 65 años,Mortalidad,años,Años que en promedio le quedarían por vivir a una persona de 65 años con las tasas de mortalidad por edad del año. Desde 2024 surge de las tablas de mortalidad proyectadas.
